@@ -1,6 +1,8 @@
 # Omnifood
 
-[View Project](https://marcusvanwinden.github.io/omnifood)
+### Link
+
+[Click here to view the project](https://marcusvanwinden.github.io/omnifood)
 
 ### Description
 
