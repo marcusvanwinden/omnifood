@@ -2,7 +2,7 @@
 
 ### Link
 
-[Click here to view project](https://marcusvanwinden.github.io/omnifood)
+[Click here to view website](https://marcusvanwinden.github.io/omnifood)
 
 ### Description
 
